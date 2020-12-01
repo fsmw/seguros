@@ -3,7 +3,7 @@
     'name': "seguros",
 
     'summary': """
-        Ejemplo de desarrollo en Odoo""",
+        Ejemplo de desarrollo en Odoo, este cambio lo hizo el compañero 2""",
 
     'description': """
         Sistema que permite administras las polizas de seguro
